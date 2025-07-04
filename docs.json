@@ -14,9 +14,24 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Live Support",
+            "group": "Support",
             "pages": [
-              "live-support"
+              {
+                "name": "Live Support",
+                "href": "https://featurebase.app/support"
+              },
+              {
+                "name": "Roadmap",
+                "href": "https://featurebase.app/roadmap"
+              },
+              {
+                "name": "Changelog",
+                "href": "https://featurebase.app/changelog"
+              },
+              {
+                "name": "Feedback",
+                "href": "https://featurebase.app/feedback"
+              }
             ]
           },
           {
@@ -24,23 +39,6 @@
             "pages": [
               "introduction",
               "quickstart"
-            ]
-          },
-          {
-            "group": "Features",
-            "pages": [
-              "features/data-scraping",
-              "features/ai-analysis",
-              "features/reports",
-              "features/database",
-              "features/chat-analysis"
-            ]
-          },
-          {
-            "group": "Documents",
-            "pages": [
-              "documents/terms",
-              "documents/privacy"
             ]
           }
         ]
